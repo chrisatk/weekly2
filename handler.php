@@ -10,13 +10,12 @@
   <body>
     
     <?php
-    $userName = "";
-    if ( isset( $_POST['radius'] ) ){
-      $radius = $_POST['radius'];
+    $myVariable = "";
+    if ( isset( $_POST['myVariable'] ) ){
+      $myVariable = $_POST['myVariable'];
     }
-    echo "<h1>For a Circle of Radius ".$radius."</h1>\n";
-    echo "<p>Area = \n";
-    echo "<p>Circumference = \n";
+    echo "<h1>My Program</h1>\n";
+    echo "<p>My Variable is = ".$myVariable."</p>\n";
     ?>
     
   </body>
