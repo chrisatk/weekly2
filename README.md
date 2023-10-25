@@ -1,3 +1,3 @@
-# Weekly Assignment #2
+# Weekly Assignment
 
-Starter code for weekly assignment #2
+Starter code for weekly assignment
